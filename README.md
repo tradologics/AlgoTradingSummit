@@ -29,9 +29,9 @@ This repository contains link to videos of the [2021 AlgoTrading Summit](https:/
 
 > _**NOTE:** We've made available the slides and code that were given to us by the speakers. If there's no link to download the slides and/or code for a talk - it was not provided to us (yet) by the speaker._
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
-### Algorithmic Short Selling
+### ⭐️ Algorithmic Short Selling
 
 If investment is a process, then automation is the only logical conclusion. In this session Laurent will explain why short-selling is the key to raising AUM, and how to generate more Long/Short ideas than you will ever have capital to allocate.
 
@@ -40,10 +40,10 @@ If investment is a process, then automation is the only logical conclusion. In t
 [Video](https://youtu.be/pTw_0YnvRdY) | [Slides](/Lauren-Bernut) | [Twitter](https://twitter.com/lb_ASC) | [LinkedIn](https://www.linkedin.com/in/laurent-bernut-97056812/)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### Integrating Alternative Data Into Your Strategies
+### ⭐️ Integrating Alternative Data Into Your Strategies
 
 In this presentation, based on The Book of Alternative Data, we will introduce the topic of alternative data and how it can be used by investors. We show specific use cases where it can be used by traders in markets including FX.
 
@@ -52,10 +52,10 @@ In this presentation, based on The Book of Alternative Data, we will introduce t
 [Video](https://youtu.be/XD7OfnUaTEs) | [Slides](Saeed-Amen) | [Twitter](https://twitter.com/saeedamenfx) | [LinkedIn](https://www.linkedin.com/in/saeedamen/) | [Website](https://www.cuemacro.com/?ref=algotradingsummit)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### Feature Selection is the New Factor Modeling
+### ⭐️ Feature Selection is the New Factor Modeling
 
 Traditional factor model is based on linear regression, with all its attendant shortcomings. The machine learning technique of feature selection can take into account nonlinearity, collinearity, and interdependence of such factors in returns prediction or attribution.
 
@@ -64,10 +64,10 @@ Traditional factor model is based on linear regression, with all its attendant s
 [Video](https://youtu.be/i2zNCyKbEkw) | [Slides](Ernest-Chan) | [Twitter](https://twitter.com/chanep) | [LinkedIn](https://www.linkedin.com/in/epchan/) | [Website](https://www.predictnow.ai/?ref=algotradingsummit)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### A look inside the world of HFT: What lies beneath the surface?
+### ⭐️ A look inside the world of HFT: What lies beneath the surface?
 
 The session will cover the various important aspects of building & running a HFT setup, and the potential sources of alpha for such strategies.
 
@@ -76,10 +76,10 @@ The session will cover the various important aspects of building & running a HFT
 [Video](https://youtu.be/HeLTQ912Apk) | [Slides](Nitesh-Khandelwal) | [Twitter](https://twitter.com/niteshkh) | [LinkedIn](https://www.linkedin.com/in/niteshkh/) | [Website](https://www.quantinsti.com/?ref=algotradingsummit)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### From idea to a trading robot. Quickly
+### ⭐️ From idea to a trading robot. Quickly
 
 In this talk, we'll be building a simple machine learning model to trade the "buy low sell high" daily strategy, and use tools like Jupyter Lab to backtest our strategy using Python.
 
@@ -88,10 +88,10 @@ In this talk, we'll be building a simple machine learning model to trade the "bu
 [Video](https://youtu.be/HnQyvWXjBmo) | [Slides](Hui-Liu) | [LinkedIn](https://www.linkedin.com/in/hui-liu-18356a14/) | [Website](https://ibridgepy.com/)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### Why Dirty Data is Your Best Friend
+### ⭐️ Why Dirty Data is Your Best Friend
 
 Overview of the importance of working with real data... and real data is not clean
 
@@ -100,10 +100,10 @@ Overview of the importance of working with real data... and real data is not cle
 [Video](https://youtu.be/LiNjD7i_z1g) | [Slides](Chris-Bartlett) | [Twitter](https://twitter.com/AlgoseekData) | [LinkedIn](https://www.linkedin.com/in/chrisnbartlett/) | [Website](https://www.algoseek.com/?ref=algotradingsummit)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### Smart-Beta Portfolios - a Machine Learning Approach
+### ⭐️ Smart-Beta Portfolios - a Machine Learning Approach
 
 In this session we'll talk about how to build better-factor, smart-beta portfolios using Hierarchical Risk Parity Algorithm. We'll also take a look at how fundamental data is used to filter-out the stock universe to replicate specific factors, and how to mix various factors inside of one portfolio using ML allocation techniques.
 
@@ -112,10 +112,10 @@ In this session we'll talk about how to build better-factor, smart-beta portfoli
 [Video](https://youtu.be/TR4WtaOXOOo) | [Slides](Alexandr-Proskurin) | [Twitter](https://twitter.com/proskurinalex) | [LinkedIn](https://www.linkedin.com/in/proskurinolexandr/) | [Website](https://hudsonthames.org/)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### A Scientific Approach to Market Prediction
+### ⭐️ A Scientific Approach to Market Prediction
 
 Discussion of the elements of price action, including direction, volatility/range, and trend, as well as go over the metrics/ways to measure and categorize these factors - and their practical implications on trading strategies
 
@@ -124,10 +124,10 @@ Discussion of the elements of price action, including direction, volatility/rang
 [Video](https://youtu.be/uttGcfgFSyA) | [Slides](Bria-Blandin) | [Twitter](https://twitter.com/quantfiction) | [LinkedIn](https://www.linkedin.com/in/brian-blandin/) | [Website](https://quantfiction.com/?ref=algotradingsummit)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### Down, Down, Deeper and Down
+### ⭐️ Down, Down, Deeper and Down
 
 Is the drawdown a useful statistic for risk scaling?
 
@@ -136,10 +136,10 @@ Is the drawdown a useful statistic for risk scaling?
 [Video](https://youtu.be/XD7OfnUaTEs) | [Slides](Robert-Carver) | [Twitter](https://twitter.com/investingidiocy) | [LinkedIn](https://www.linkedin.com/in/robert-stuart-carver/) | [Website](https://www.systematicmoney.org/?ref=algotradingsummit)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### Hedge Fund Misadventures (& How We Eventually Raised Funding)
+### ⭐️ Hedge Fund Misadventures (& How We Eventually Raised Funding)
 
 Christina started Domeyard, a hedge fund focused on HFT, almost 10 years ago. In this rapid-fire talk, Christina will open up about her biggest mistakes and lessons learned from fundraising, to hiring, to building strategies, to launching the fund.
 
@@ -148,16 +148,16 @@ Christina started Domeyard, a hedge fund focused on HFT, almost 10 years ago. In
 [Video](https://youtu.be/x_s1u3EoBsQ) | [Twitter](https://twitter.com/christinaqi) | [LinkedIn](https://www.linkedin.com/in/christinaqi/) | [Website](https://www.databento.com/)
 
 
-\*\*\*\*\*\*\*\*\*\*
+<br>\*\*\*\*\*\*\*\*\*\*
 
 
-### Applying Machine Learning to Pairs Trading
+### ⭐️ Applying Machin
 
-Based on The Book of Alternative Data, we will introduce the topic of alternative data and how it can be used by investors. We show specific use cases where it can be used by traders in markets including FX.
+In this presentation, based on The Book of Alternative Data, we will introduce the topic of alternative data and how it can be used by investors. We show specific use cases where it can be used by traders in markets including FX.
 
 > **Illya Barziy**, Quantitatve Research Lead @ Hudson & Thames
 
-[Video](https://youtu.be/7RIs8MvZt8I) | [Slides](Illya-Barziy) | [Twitter](https://twitter.com/IllyaBarziy) | [LinkedIn](https://www.linkedin.com/in/illyabarziy/) | [Website](https://hudsonthames.org/)
+[Video]() | [Slides](Illya-Barziy) | [Twitter](https://twitter.com/IllyaBarziy) | [LinkedIn](https://www.linkedin.com/in/illyabarziy/) | [Website](https://hudsonthames.org/)
 
 
 <br>
