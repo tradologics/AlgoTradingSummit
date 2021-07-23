@@ -8,6 +8,7 @@
 
 This repository contains link to videos of the [2021 AlgoTrading Summit](https://algotradingsummit.com/) talks, along with slides and code made available by the speakers.
 
+📺 **[Watch all the videos](https://www.youtube.com/playlist?list=PLlmbulluktVRAg-h4vp-u4iEElCERgIAP)**  (YouTube playlist)
 
 <br>
 
