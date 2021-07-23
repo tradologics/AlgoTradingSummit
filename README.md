@@ -146,6 +146,8 @@ Discussion of the elements of price action, including direction, volatility/rang
 > **Brian Blandin**, Co-Founder at Markets Science, Writer @ Quantfiction
 
 [Video](https://youtu.be/uttGcfgFSyA) | 
+[Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
+[Code](https://github.com/tradologics/AlgoTradingSummit/tree/master/code) | 
 [Twitter](https://twitter.com/quantfiction) | 
 [LinkedIn](https://www.linkedin.com/in/brian-blandin/) | 
 [Website](https://quantfiction.com/?ref=algotradingsummit)
