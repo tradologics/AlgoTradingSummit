@@ -151,7 +151,7 @@ Christina started Domeyard, a hedge fund focused on HFT, almost 10 years ago. In
 <br>\*\*\*\*\*\*\*\*\*\*
 
 
-### ⭐️ Applying Machin
+### ⭐️ Applying Machine Learning to Pairs Trading
 
 In this presentation, based on The Book of Alternative Data, we will introduce the topic of alternative data and how it can be used by investors. We show specific use cases where it can be used by traders in markets including FX.
 
