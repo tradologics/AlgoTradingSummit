@@ -162,6 +162,7 @@ Is the drawdown a useful statistic for risk scaling?
 
 [Video](https://youtu.be/XD7OfnUaTEs) | 
 [Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
+[Code](https://github.com/tradologics/AlgoTradingSummit/tree/master/code) | 
 [Twitter](https://twitter.com/investingidiocy) | 
 [LinkedIn](https://www.linkedin.com/in/robert-stuart-carver/) | 
 [Website](https://www.systematicmoney.org/?ref=algotradingsummit)
