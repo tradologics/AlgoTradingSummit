@@ -37,7 +37,9 @@ If investment is a process, then automation is the only logical conclusion. In t
 
 > **Laurent Bernut**, 20+ Years Long/Short, Short-Seller expert, and Algorithmic Trader
 
-[Video](https://youtu.be/pTw_0YnvRdY) | [Slides](/Lauren-Bernut) | [Twitter](https://twitter.com/lb_ASC) | [LinkedIn](https://www.linkedin.com/in/laurent-bernut-97056812/)
+[Video](https://youtu.be/pTw_0YnvRdY) | 
+[Twitter](https://twitter.com/lb_ASC) | 
+[LinkedIn](https://www.linkedin.com/in/laurent-bernut-97056812/)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -49,7 +51,10 @@ In this presentation, based on The Book of Alternative Data, we will introduce t
 
 > **Saeed Amen**, Founder at Cuemacro, Author, Visiting Lecturer at QMUL
 
-[Video](https://youtu.be/XD7OfnUaTEs) | [Slides](Saeed-Amen) | [Twitter](https://twitter.com/saeedamenfx) | [LinkedIn](https://www.linkedin.com/in/saeedamen/) | [Website](https://www.cuemacro.com/?ref=algotradingsummit)
+[Video](https://youtu.be/XD7OfnUaTEs) | 
+[Twitter](https://twitter.com/saeedamenfx) | 
+[LinkedIn](https://www.linkedin.com/in/saeedamen/) | 
+[Website](https://www.cuemacro.com/?ref=algotradingsummit)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -61,7 +66,11 @@ Traditional factor model is based on linear regression, with all its attendant s
 
 > **Ernest Chan**, CEO at PredictNow.ai, Managing Member of QTS Capital Management
 
-[Video](https://youtu.be/i2zNCyKbEkw) | [Slides](Ernest-Chan) | [Twitter](https://twitter.com/chanep) | [LinkedIn](https://www.linkedin.com/in/epchan/) | [Website](https://www.predictnow.ai/?ref=algotradingsummit)
+[Video](https://youtu.be/i2zNCyKbEkw) | 
+[Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
+[Twitter](https://twitter.com/chanep) | 
+[LinkedIn](https://www.linkedin.com/in/epchan/) | 
+[Website](https://www.predictnow.ai/?ref=algotradingsummit)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -73,7 +82,11 @@ The session will cover the various important aspects of building & running a HFT
 
 > **Nitesh Khandelwal**, CEO & Co-Founder at QuantInsti, Partner & Co-founder at iRage
 
-[Video](https://youtu.be/HeLTQ912Apk) | [Slides](Nitesh-Khandelwal) | [Twitter](https://twitter.com/niteshkh) | [LinkedIn](https://www.linkedin.com/in/niteshkh/) | [Website](https://www.quantinsti.com/?ref=algotradingsummit)
+[Video](https://youtu.be/HeLTQ912Apk) | 
+[Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
+[Twitter](https://twitter.com/niteshkh) | 
+[LinkedIn](https://www.linkedin.com/in/niteshkh/) | 
+[Website](https://www.quantinsti.com/?ref=algotradingsummit)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -85,7 +98,11 @@ In this talk, we'll be building a simple machine learning model to trade the "bu
 
 > **Dr. Hui Liu**, Creator of IBridgePy & CEO of Running River Investment LLC. BS, MS, Phd and MBA
 
-[Video](https://youtu.be/HnQyvWXjBmo) | [Slides](Hui-Liu) | [LinkedIn](https://www.linkedin.com/in/hui-liu-18356a14/) | [Website](https://ibridgepy.com/)
+[Video](https://youtu.be/HnQyvWXjBmo) | 
+[Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
+[Code](https://github.com/tradologics/AlgoTradingSummit/tree/master/code) | 
+[LinkedIn](https://www.linkedin.com/in/hui-liu-18356a14/) | 
+[Website](https://ibridgepy.com/)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -97,7 +114,10 @@ Overview of the importance of working with real data... and real data is not cle
 
 > **Chris Bartlett**, CEO @ AlgoSeek
 
-[Video](https://youtu.be/LiNjD7i_z1g) | [Slides](Chris-Bartlett) | [Twitter](https://twitter.com/AlgoseekData) | [LinkedIn](https://www.linkedin.com/in/chrisnbartlett/) | [Website](https://www.algoseek.com/?ref=algotradingsummit)
+[Video](https://youtu.be/LiNjD7i_z1g) | 
+[Twitter](https://twitter.com/AlgoseekData) | 
+[LinkedIn](https://www.linkedin.com/in/chrisnbartlett/) | 
+[Website](https://www.algoseek.com/?ref=algotradingsummit)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -109,7 +129,10 @@ In this session we'll talk about how to build better-factor, smart-beta portfoli
 
 > **Alexandr Proskurin**, CIO at Principia Invest, Head of Consulting at Hudson and Thames
 
-[Video](https://youtu.be/TR4WtaOXOOo) | [Slides](Alexandr-Proskurin) | [Twitter](https://twitter.com/proskurinalex) | [LinkedIn](https://www.linkedin.com/in/proskurinolexandr/) | [Website](https://hudsonthames.org/)
+[Video](https://youtu.be/TR4WtaOXOOo) | 
+[Twitter](https://twitter.com/proskurinalex) | 
+[LinkedIn](https://www.linkedin.com/in/proskurinolexandr/) | 
+[Website](https://hudsonthames.org/)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -121,7 +144,10 @@ Discussion of the elements of price action, including direction, volatility/rang
 
 > **Brian Blandin**, Co-Founder at Markets Science, Writer @ Quantfiction
 
-[Video](https://youtu.be/uttGcfgFSyA) | [Slides](Bria-Blandin) | [Twitter](https://twitter.com/quantfiction) | [LinkedIn](https://www.linkedin.com/in/brian-blandin/) | [Website](https://quantfiction.com/?ref=algotradingsummit)
+[Video](https://youtu.be/uttGcfgFSyA) | 
+[Twitter](https://twitter.com/quantfiction) | 
+[LinkedIn](https://www.linkedin.com/in/brian-blandin/) | 
+[Website](https://quantfiction.com/?ref=algotradingsummit)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -133,7 +159,11 @@ Is the drawdown a useful statistic for risk scaling?
 
 > **Robert Carver**, Independent futures trader and Best-selling author
 
-[Video](https://youtu.be/XD7OfnUaTEs) | [Slides](Robert-Carver) | [Twitter](https://twitter.com/investingidiocy) | [LinkedIn](https://www.linkedin.com/in/robert-stuart-carver/) | [Website](https://www.systematicmoney.org/?ref=algotradingsummit)
+[Video](https://youtu.be/XD7OfnUaTEs) | 
+[Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
+[Twitter](https://twitter.com/investingidiocy) | 
+[LinkedIn](https://www.linkedin.com/in/robert-stuart-carver/) | 
+[Website](https://www.systematicmoney.org/?ref=algotradingsummit)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -145,7 +175,10 @@ Christina started Domeyard, a hedge fund focused on HFT, almost 10 years ago. In
 
 > **Christina Qi**, CEO of Databento, Founding Partner of Domeyard LP, Forbes 30 Under 30
 
-[Video](https://youtu.be/x_s1u3EoBsQ) | [Twitter](https://twitter.com/christinaqi) | [LinkedIn](https://www.linkedin.com/in/christinaqi/) | [Website](https://www.databento.com/)
+[Video](https://youtu.be/x_s1u3EoBsQ) | 
+[Twitter](https://twitter.com/christinaqi) | 
+[LinkedIn](https://www.linkedin.com/in/christinaqi/) | 
+[Website](https://www.databento.com/)
 
 
 <br>\*\*\*\*\*\*\*\*\*\*
@@ -157,7 +190,11 @@ In this presentation, based on The Book of Alternative Data, we will introduce t
 
 > **Illya Barziy**, Quantitatve Research Lead @ Hudson & Thames
 
-[Video]() | [Slides](Illya-Barziy) | [Twitter](https://twitter.com/IllyaBarziy) | [LinkedIn](https://www.linkedin.com/in/illyabarziy/) | [Website](https://hudsonthames.org/)
+[Video](https://youtu.be/7RIs8MvZt8I) | 
+[Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
+[Twitter](https://twitter.com/IllyaBarziy) | 
+[LinkedIn](https://www.linkedin.com/in/illyabarziy/) | 
+[Website](https://hudsonthames.org/)
 
 
 <br>
