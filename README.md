@@ -116,6 +116,7 @@ Overview of the importance of working with real data... and real data is not cle
 > **Chris Bartlett**, CEO @ AlgoSeek
 
 [Video](https://youtu.be/LiNjD7i_z1g) | 
+[Slides](https://github.com/tradologics/AlgoTradingSummit/tree/master/slides) | 
 [Twitter](https://twitter.com/AlgoseekData) | 
 [LinkedIn](https://www.linkedin.com/in/chrisnbartlett/) | 
 [Website](https://www.algoseek.com/?ref=algotradingsummit)
