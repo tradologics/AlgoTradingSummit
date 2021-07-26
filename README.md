@@ -131,6 +131,7 @@ In this session we'll talk about how to build better-factor, smart-beta portfoli
 > **Alexandr Proskurin**, CIO at Principia Invest, Head of Consulting at Hudson and Thames
 
 [Video](https://youtu.be/TR4WtaOXOOo) | 
+
 [Twitter](https://twitter.com/proskurinalex) | 
 [LinkedIn](https://www.linkedin.com/in/proskurinolexandr/) | 
 [Website](https://hudsonthames.org/)
